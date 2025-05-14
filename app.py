@@ -8,7 +8,7 @@ feature_names = ["V1", "V2", "V3", "V4", "Amount"]
 models = {
     "Logistic Regression": "logreg_model.pkl",
     "Random Forest": "random_forest_model.pkl",
-    "XGBoost": "xgboost_model.pkl",
+    "XGBoost": "xgb_model.pkl",
     "MLP (Neurális háló)": "mlp_model.pkl"
 }
 
